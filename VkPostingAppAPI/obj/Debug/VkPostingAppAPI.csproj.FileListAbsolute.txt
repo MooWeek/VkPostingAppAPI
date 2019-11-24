@@ -1,0 +1,15 @@
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\VkPostingAppAPI.exe.config
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\VkPostingAppAPI.exe
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\VkPostingAppAPI.pdb
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\xNet.dll
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\bin\Debug\xNet.xml
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.AuthForms.resources
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.Form1.resources
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.Properties.Resources.resources
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.csproj.CopyComplete
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.exe
+C:\Users\Andrew\source\repos\VkPostingAppAPI\VkPostingAppAPI\obj\Debug\VkPostingAppAPI.pdb
